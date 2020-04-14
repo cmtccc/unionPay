@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: unionpay
+  mvc:
+    view:
+      prefix: /pages/
+      suffix: .html
